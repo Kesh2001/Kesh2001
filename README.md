@@ -1,3 +1,6 @@
+
+![Linkedin Banner2](https://github.com/user-attachments/assets/706d3168-8cf4-4ed7-addc-5611d93161fc)
+
 # 💫 About Me:
 🔭 Pursuing Master's of Applied Computing from the University of Windsor, Ontario. <br>🤝 I’m looking for co-op/internship opportunities starting May 2025.<br>🌱 I’m currently learning Data Analysis.<br>💬 Ask me about MERN Stack and discuss Data with me!! <br>📚 Fun fact: The official Python documentation includes jokes, like this one: "If you’re reading this document linearly, you should skip ahead now!" 😂
 
